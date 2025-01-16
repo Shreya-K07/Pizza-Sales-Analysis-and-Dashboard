@@ -18,7 +18,7 @@
 
 ![Pizza Sales Dashboard](https://github.com/user-attachments/assets/f2d9109f-395b-41cb-a7fb-78c8eba085ec)
 
-**Methodology:**
+**Methodology:**<br>
 We used SQL for data analysis, querying the database to extract relevant information for each KPI and problem statement.<br>
 Power BI was employed for data visualization, creating interactive dashboards to provide meaningful insights.
 
