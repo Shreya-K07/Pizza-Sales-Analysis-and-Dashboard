@@ -1,4 +1,4 @@
-# Pizza-Sales-Analysis-and-Dashboard
+# Pizza-Sales-Analysis-and-Dashboard🍕
 **Description:** Welcome to the "Pizza Shop Sales Analysis &amp; Dashboard" project! This showcases my expertise in SQL and Power BI. I analyzed pizza sales data, focusing on data cleaning, modeling, and creating interactive dashboards. Key performance indicators (KPIs) were used to extract insights and address specific problem statements effectively.
 
 # Key Performance Indicators (KPIs):
@@ -22,7 +22,7 @@
 We used SQL for data analysis, querying the database to extract relevant information for each KPI and problem statement.
 Power BI was employed for data visualization, creating interactive dashboards to provide meaningful insights.
 
-
+This project highlights the power of **SQL** for data analysis and **Power BI** for impactful visualizations 📊. We transformed raw data into clear insights, identifying key trends and opportunities 🚀. The interactive dashboards provided an easy way to track business performance 📈. Data-driven decisions are key to growth and success in the pizza sales domain 🍕.
 
 
 
